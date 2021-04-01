@@ -1,0 +1,53 @@
+.loadTrigger {
+  width: 0;
+  height: 0;
+}
+
+/* HIDE PANEL */
+
+.macro-settings .panel-mask {
+  width: 0;
+}
+
+html.wf-doc.avoid-right-sidebar {
+  margin-right: 0;
+}
+
+.right-sidebar {
+  width: 0;
+}
+
+.wf-show-panel .right-sidebar {
+  width: 241px;
+}
+
+.bem-AssetsTab .panel-mask {
+  width: 0;
+}
+
+.AssetsTab_LinkUploadModalWrap .panel-mask {
+  width: 0;
+}
+
+.bem-NotificationList-inWorkspace {
+  right: 0;
+}
+
+.avoid-left-sidebar.avoid-right-sidebar .bem-TopBar_Body {
+  width: calc(100% - 35px);
+}
+.avoid-right-sidebar .bem-TopBar_Body {
+  width: calc(100%);
+}
+
+.bem-BottomBar {
+  width: 100% !important;
+}
+
+.right-sidebar > .tabs {
+  margin-top: 35px;
+}
+
+.right-sidebar > .inner > .tab-pane {
+  top: 35px;
+}

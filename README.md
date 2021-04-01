@@ -1,2 +1,2 @@
-# finsweet-chrome-extension
+# FinsweetChromeExtension
 Created with CodeSandbox

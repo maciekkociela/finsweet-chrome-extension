@@ -1,0 +1,5 @@
+[aria-label="1280px and up - active"],
+[aria-label="1440px and up - active"],
+[aria-label="1920px and up - active"] {
+  background-color: red !important;
+}
